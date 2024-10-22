@@ -1,8 +1,8 @@
-
+import "./style.css"
 
 export default function Song({song} : {song : any}) {
     return (
-        <div className="songBody">
+        <div className="songsBody">
             {song.songName}
         </div>
     )

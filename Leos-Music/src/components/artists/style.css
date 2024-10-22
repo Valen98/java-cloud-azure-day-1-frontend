@@ -2,7 +2,6 @@
     margin-top: 1rem;
     width: 81%;
     background-color: #fff;
-    height: 5em;
     display: flex;
     align-items: center;
     border-radius: 20px;
@@ -10,4 +9,5 @@
     box-shadow: #00000026 1.95px 1.95px 2.6px;
     flex-direction: column;
     align-items: flex-start;
+    height: auto;
 }

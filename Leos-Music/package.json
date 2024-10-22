@@ -19,6 +19,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "@azure/static-web-apps-cli": "^2.0.1",
     "@eslint/js": "^9.11.1",
     "@types/node": "^22.7.6",
     "@types/react": "^18.3.10",

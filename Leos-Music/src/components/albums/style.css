@@ -1,0 +1,16 @@
+.songList {
+
+  transition: 0.5s;
+}
+
+.songList.expanded {
+  transform: scaleY(100%);
+  max-height: 100px;
+}
+
+.songList.collapse {
+  overflow: hidden;
+  margin-top: -70%;
+  transition: all 0.5s;
+  opacity: 0;
+}
